@@ -7,7 +7,7 @@ y = "4.0"
 a = float(x)
 b = float(y)
 
-result a + b 
+result = a + b 
 
 result = (float(x) + float(y))
 print(result)
